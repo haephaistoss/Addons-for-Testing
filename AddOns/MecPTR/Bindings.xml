@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="MECPTR_TOGGLE" description="Toggles visibility of MecPTR window." header="MecPTR">
+    MecPTRParentFrame:ToggleWindow();
+  </Binding>
+</Bindings>

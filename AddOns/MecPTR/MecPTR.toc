@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title: MecPTR
+## Notes: An addon to help with testing WotLK.
+## Author: Mec
+## Version: 1.0.0
+## DefaultState: Enabled
+init.lua
+tooltips.lua
+UI_common_UI_functions.lua
+UI_title_bar.lua
+UI_cmds.lua
+UI_gems.lua
+UI_food.lua
+UI_flasks.lua
+UI_potions.lua
+UI_reagents.lua
+UI_enchants.lua
+UI_prof.lua
+UI_rep.lua
+UI_bundles.lua
+UI_nav.lua
