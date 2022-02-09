@@ -23,7 +23,7 @@ end
 --Configuration
 --================================================================
 AddOn["config"] = {
-	ui_height = 700,
+	ui_height = 600,
 	ui_width = 500
 }
 
