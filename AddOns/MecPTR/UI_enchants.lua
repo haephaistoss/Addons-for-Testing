@@ -14,7 +14,7 @@ local data = {
     {col = 1, itemId = 39005, itemName = "Enchant Chest - Super Health", type = "Chest"},
     {col = 1, itemId = 39003, itemName = "Enchant Cloak - Greater Speed", type = "Cloak"},
     {col = 1, itemId = 44457, itemName = "Enchant Cloak - Major Agility", type = "Cloak"},
-	{col = 1, itemId = 39004, itemName = "Enchant Cloak - Wisdom", type = "Cloak"},
+	{col = 1, itemId = 38973, itemName = "Enchant Cloak - Spell Piercing", type = "Cloak"},
     {col = 1, itemId = 38978, itemName = "Enchant Cloak - Titanweave", type = "Cloak"},
     {col = 2, itemId = 38990, itemName = "Enchant Gloves - Armsman", type = "Gloves"},
     {col = 2, itemId = 44458, itemName = "Enchant Gloves - Crusher", type = "Gloves"},
